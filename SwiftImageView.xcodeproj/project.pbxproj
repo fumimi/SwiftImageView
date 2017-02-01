@@ -12,6 +12,8 @@
 		0006AEB61E421E5100EBF9CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0006AEB41E421E5100EBF9CC /* Main.storyboard */; };
 		0006AEB81E421E5100EBF9CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0006AEB71E421E5100EBF9CC /* Assets.xcassets */; };
 		0006AEBB1E421E5100EBF9CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0006AEB91E421E5100EBF9CC /* LaunchScreen.storyboard */; };
+		0006AEC41E421EF300EBF9CC /* back1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0006AEC21E421EF300EBF9CC /* back1.jpg */; };
+		0006AEC51E421EF300EBF9CC /* back2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0006AEC31E421EF300EBF9CC /* back2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		0006AEB71E421E5100EBF9CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0006AEBA1E421E5100EBF9CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0006AEBC1E421E5100EBF9CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0006AEC21E421EF300EBF9CC /* back1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back1.jpg; sourceTree = "<group>"; };
+		0006AEC31E421EF300EBF9CC /* back2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		0006AEAF1E421E5100EBF9CC /* SwiftImageView */ = {
 			isa = PBXGroup;
 			children = (
+				0006AEC21E421EF300EBF9CC /* back1.jpg */,
+				0006AEC31E421EF300EBF9CC /* back2.jpg */,
 				0006AEB01E421E5100EBF9CC /* AppDelegate.swift */,
 				0006AEB21E421E5100EBF9CC /* ViewController.swift */,
 				0006AEB41E421E5100EBF9CC /* Main.storyboard */,
@@ -126,7 +132,9 @@
 			files = (
 				0006AEBB1E421E5100EBF9CC /* LaunchScreen.storyboard in Resources */,
 				0006AEB81E421E5100EBF9CC /* Assets.xcassets in Resources */,
+				0006AEC41E421EF300EBF9CC /* back1.jpg in Resources */,
 				0006AEB61E421E5100EBF9CC /* Main.storyboard in Resources */,
+				0006AEC51E421EF300EBF9CC /* back2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
